@@ -18,6 +18,7 @@ public class MigBuilder {
 
 		SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd");
 
+		ssss
 		try {
 			if (args.length != 2) {
 				Log.log(" Please check parameters ! ]", Log.ERROR);
